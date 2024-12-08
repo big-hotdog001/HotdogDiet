@@ -4,17 +4,17 @@ body {
   background-color: #f8f9fa;
   margin: 0;
   padding: 0;
+  background: linear-gradient(to bottom, #a8e063, #56ab2f);
+  color: #333;
 }
 
 .app {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-}
-
-header {
-  text-align: center;
-  margin-bottom: 30px;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .diet-form {

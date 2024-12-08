@@ -1,0 +1,9 @@
+/* components/WelcomeBanner.css */
+.welcome-banner {
+  text-align: center;
+  background-color: #56ab2f;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
